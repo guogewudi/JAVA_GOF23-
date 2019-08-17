@@ -8,7 +8,7 @@ package com.guoge.Ch1_SimpleFactory;
  *
  *典型应用： Calender类（并不需要扩展）
  *
- * VideoFactory方法一
+// * VideoFactory方法一
  * 如果想要可以生成更多的video类，就要修改工厂的源代码。
  * 这并不符合开闭原则：对扩展开放，对修改关闭
  *
